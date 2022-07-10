@@ -11,6 +11,6 @@
 
 💴 In addition, Act is funded by several separate businesses, allowing us to offer the lowest possible price!
 
-🪙 For example, you can save about 4000 yen over 💩onohaVPS.
+🪙 You can save almost 4,000 yen over conohaVPS.
 
-⚗️ [Click here](https://discord.gg/veRQCMe2Fu) for the official support server and purchase serve
+⚗️ [Click here](https://discord.gg/veRQCMe2Fu) for the official support server and purchase server
