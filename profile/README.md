@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-`Act Offical(公式)                         ⎯⠀❐⠀⤬`
+`Act Offical について　　　　　　　　　                         ⎯⠀❐⠀⤬`
 
 
 **Here are some ideas to get you started:**
