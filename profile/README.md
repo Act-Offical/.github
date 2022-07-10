@@ -1,12 +1,16 @@
 
 ## Hi there 👋
-`Act Offical について　　　　　　　　　                         ⎯⠀❐⠀⤬`
+`About Act Offical　　　　　　　　　                         ⎯⠀❐⠀⤬`
 
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
+🌈 Act is a service created by a group of VPS and programming enthusiasts.
+
+😁 Most of Act's operations are staffed by students.
+
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+
 🍿 Fun facts - what does your team eat for breakfast?
+
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
