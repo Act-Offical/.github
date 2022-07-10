@@ -3,7 +3,7 @@
 `About Act Offical　　　　　　　　　　　　　　　　　　　　　　　　　　　　                         ⎯⠀❐⠀⤬`
 
 
-**Here are some ideas to get you started:**
+**Features of Act:**
 
 🌈 Act is a service created by a group of VPS and programming enthusiasts.
 
