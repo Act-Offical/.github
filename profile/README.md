@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-`About Act Offical　　　　　　　　　                         ⎯⠀❐⠀⤬`
+`About Act Offical　　　　　　　　　　　　　　　　　　　　　　　　　　　　                         ⎯⠀❐⠀⤬`
 
 
 **Here are some ideas to get you started:**
@@ -9,8 +9,8 @@
 
 😁 Most of Act's operations are staffed by students.
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+💴 In addition, Act is funded by several separate businesses, allowing us to offer the lowest possible price!
 
-🍿 Fun facts - what does your team eat for breakfast?
+🪙 For example, you can save about 4000 yen over 💩onohaVPS.
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+⚗️ [Click here](https://discord.gg/veRQCMe2Fu) for the official support server and purchase serve
